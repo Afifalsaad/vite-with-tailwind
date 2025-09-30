@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "class": "10A",
+      "results": {
+        "physics": 85,
+        "chemistry": 78,
+        "math": 92,
+        "biology": 88
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "class": "10B",
+      "results": {
+        "physics": 72,
+        "chemistry": 69,
+        "math": 80,
+        "biology": 75
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "class": "10A",
+      "results": {
+        "physics": 90,
+        "chemistry": 88,
+        "math": 95,
+        "biology": 92
+      }
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "class": "10C",
+      "results": {
+        "physics": 65,
+        "chemistry": 70,
+        "math": 60,
+        "biology": 68
+      }
+    },
+    {
+      "id": 5,
+      "name": "Eva",
+      "class": "10B",
+      "results": {
+        "physics": 78,
+        "chemistry": 85,
+        "math": 82,
+        "biology": 80
+      }
+    }
+  ]
+  

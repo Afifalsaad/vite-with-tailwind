@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 9,
+    "features": ["1 User", "5 GB Storage", "Basic Support"]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": 29,
+    "popular": true,
+    "features": ["5 Users", "50 GB Storage", "Priority Support"]
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "price": 99,
+    "features": ["Unlimited Users", "1 TB Storage", "Dedicated Support"]
+  }
+]
